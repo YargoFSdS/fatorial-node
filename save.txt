@@ -1,0 +1,3 @@
+npm i @types/node --save-dev
+
+tsc -w
